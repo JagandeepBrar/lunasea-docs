@@ -1,7 +1,3 @@
----
-description: A self-hosted controller for mobile built using the Flutter framework
----
-
 # LunaSea
 
 LunaSea is a fully featured, open source self-hosted controller focused on giving you a seamless experience between all of your self-hosted media software remotely on your devices.
