@@ -9,21 +9,19 @@
 * [Frequently Asked Questions](getting-started/frequently-asked-questions.md)
 * [Platform Restrictions](getting-started/platform-restrictions.md)
 
-## LunaSea Refactor <a href="#lunasea-1" id="lunasea-1"></a>
-
 ## LunaSea
 
-* [Cloud Account](lunasea/account.md)
-* [Local Backup & Restore](lunasea/local-backup-and-restore.md)
-* [Logs](lunasea/logs.md)
-* [Notifications](lunasea/notifications/README.md)
-  * [Lidarr](lunasea/notifications/lidarr.md)
-  * [Overseerr](lunasea/notifications/overseerr.md)
-  * [Radarr](lunasea/notifications/radarr.md)
-  * [Sonarr](lunasea/notifications/sonarr.md)
-  * [Tautulli](lunasea/notifications/tautulli.md)
-  * [Custom Notifications](lunasea/notifications/custom-notifications.md)
-* [Profiles](lunasea/profiles.md)
+* [Cloud Account](lunasea-1/account.md)
+* [Local Backup & Restore](lunasea-1/local-backup-and-restore.md)
+* [Logs](lunasea-1/logs.md)
+* [Notifications](lunasea-1/notifications/README.md)
+  * [Lidarr](lunasea-1/notifications/lidarr.md)
+  * [Overseerr](lunasea-1/notifications/overseerr.md)
+  * [Radarr](lunasea-1/notifications/radarr.md)
+  * [Sonarr](lunasea-1/notifications/sonarr.md)
+  * [Tautulli](lunasea-1/notifications/tautulli.md)
+  * [Custom Notifications](lunasea-1/notifications/custom-notifications.md)
+* [Profiles](lunasea-1/profiles.md)
 
 ## Modules
 
