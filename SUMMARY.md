@@ -11,7 +11,7 @@
 
 ## LunaSea
 
-* [Cloud Account](lunasea-1/account.md)
+* [Cloud Account](lunasea/cloud-account.md)
 * [Local Backup & Restore](lunasea-1/local-backup-and-restore.md)
 * [Logs](lunasea-1/logs.md)
 * [Notifications](lunasea-1/notifications/README.md)
