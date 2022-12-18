@@ -8,7 +8,7 @@ Note that Google Play Services are not required for core functionality, however 
 If you want a stable experience, stick with stable releases. Want to test new builds of LunaSea? Read about the [build channels](../getting-started/build-channels.md) to make the right choice!
 {% endhint %}
 
-## Google Play Store
+### Google Play Store
 
 _Channel(s): `Stable`, `Candidate`, `Beta`, `Edge`_
 
@@ -39,14 +39,14 @@ Reach out via [email](https://docs.lunasea.appmailto:hello@lunasea.app/) for mor
 {% endtab %}
 {% endtabs %}
 
-## Build Bucket
+### Build Bucket
 
 _Channel(s): `Stable`, `Candidate`, `Beta`, `Edge`_\
 _Format(s): `.apk`_
 
 All Android releases are available in the [Build Bucket](https://builds.lunasea.app/#latest/)!
 
-## GitHub Releases
+### GitHub Releases
 
 _Channel(s): `Stable`_\
 _Format(s): `.apk`_

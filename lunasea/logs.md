@@ -22,7 +22,7 @@ Critical logs are crashing errors or unhandled errors that have occurred on the 
 {% endtab %}
 {% endtabs %}
 
-### Viewing Log History
+## Viewing Log History
 
 When a _handled_ error occurs, a toast notification will appear that allows you to directly view the error that just occurred.
 
@@ -32,7 +32,7 @@ LunaSea also stores a list of the **last 100 logs** that have occurred on the de
 The log database size is checked on startup, so all logs that have occurred in the active session will remain in the log history until LunaSea is closed and reopened.
 {% endhint %}
 
-### Exporting Logs
+## Exporting Logs
 
 LunaSea offers the ability to export your logs into a JSON file, which can be easily sent to the developer to help debug the problems. The exported logs also include additional information, including the code-execution stack trace to see exactly where in the code the error occurred.
 
@@ -44,7 +44,7 @@ Because the exported logs contain code-execution stack traces, **the logs may un
 Please ensure you do not publicly share your exported logs (or before sharing, manually scrub the exported logs). Only share the logs to trusted parties through private channels such as email or direct messages.
 {% endhint %}
 
-### Clearing Logs
+## Clearing Logs
 
 LunaSea offers the ability to clear all recorded logs from your device. While an available option, it is not recommended to clear your logs often as LunaSea will internally ensure the log database does not grow to an obscenely large size.
 
