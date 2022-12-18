@@ -24,15 +24,15 @@ Notifications are only supported on a limited set of platforms at this time beca
 
 ## Module Support
 
-|                          Module                         | Supported? | Deep Linking? |
-| :-----------------------------------------------------: | :--------: | :-----------: |
-|    [Lidarr](../../lunasea-1/notifications/lidarr.md)    |      ✅     |       ❌       |
-|                          NZBGet                         |      ❌     |       ❌       |
-| [Overseerr](../../lunasea-1/notifications/overseerr.md) |      ✅     |       ❌       |
-|    [Radarr](../../lunasea-1/notifications/radarr.md)    |      ✅     |       ✅       |
-|                         SABnzbd                         |      ❌     |       ❌       |
-|    [Sonarr](../../lunasea-1/notifications/sonarr.md)    |      ✅     |       ✅       |
-|  [Tautulli](../../lunasea-1/notifications/tautulli.md)  |      ✅     |       ✅       |
+|            Module            | Supported? | Deep Linking? |
+| :--------------------------: | :--------: | :-----------: |
+|  [Lidarr](broken-reference)  |      ✅     |       ❌       |
+|            NZBGet            |      ❌     |       ❌       |
+| [Overseerr](../overseerr.md) |      ✅     |       ❌       |
+|    [Radarr](../radarr.md)    |      ✅     |       ✅       |
+|            SABnzbd           |      ❌     |       ❌       |
+|    [Sonarr](../sonarr.md)    |      ✅     |       ✅       |
+|  [Tautulli](../tautulli.md)  |      ✅     |       ✅       |
 
 ## Notification Types
 

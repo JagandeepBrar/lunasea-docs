@@ -15,13 +15,13 @@
 * [Local Backup & Restore](lunasea/local-backup-and-restore.md)
 * [Logs](lunasea/logs.md)
 * [Notifications](lunasea/notifications/README.md)
-  * [Lidarr](lunasea-1/notifications/lidarr.md)
-  * [Overseerr](lunasea-1/notifications/overseerr.md)
-  * [Radarr](lunasea-1/notifications/radarr.md)
-  * [Sonarr](lunasea-1/notifications/sonarr.md)
-  * [Tautulli](lunasea-1/notifications/tautulli.md)
-  * [Custom Notifications](lunasea-1/notifications/custom-notifications.md)
+  * [Lidarr](lunasea/notifications/lidarr.md)
 * [Profiles](lunasea/profiles.md)
+* [Overseerr](lunasea/overseerr.md)
+* [Radarr](lunasea/radarr.md)
+* [Sonarr](lunasea/sonarr.md)
+* [Tautulli](lunasea/tautulli.md)
+* [Custom Notifications](lunasea/custom-notifications.md)
 
 ## Modules
 
