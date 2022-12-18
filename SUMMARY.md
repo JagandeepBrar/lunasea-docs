@@ -21,7 +21,7 @@
   * [Sonarr](lunasea-1/notifications/sonarr.md)
   * [Tautulli](lunasea-1/notifications/tautulli.md)
   * [Custom Notifications](lunasea-1/notifications/custom-notifications.md)
-* [Profiles](lunasea-1/profiles.md)
+* [Profiles](lunasea/profiles.md)
 
 ## Modules
 
