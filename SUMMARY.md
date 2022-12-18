@@ -16,12 +16,12 @@
 * [Logs](lunasea/logs.md)
 * [Notifications](lunasea/notifications/README.md)
   * [Lidarr](lunasea/notifications/lidarr.md)
+  * [Overseerr](lunasea/notifications/overseerr.md)
+  * [Radarr](lunasea/notifications/radarr.md)
+  * [Sonarr](lunasea/notifications/sonarr.md)
+  * [Tautulli](lunasea/notifications/tautulli.md)
+  * [Custom Notifications](lunasea/notifications/custom-notifications.md)
 * [Profiles](lunasea/profiles.md)
-* [Overseerr](lunasea/overseerr.md)
-* [Radarr](lunasea/radarr.md)
-* [Sonarr](lunasea/sonarr.md)
-* [Tautulli](lunasea/tautulli.md)
-* [Custom Notifications](lunasea/custom-notifications.md)
 
 ## Modules
 
