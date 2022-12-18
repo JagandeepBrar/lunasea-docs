@@ -18,9 +18,9 @@ Notifications are only supported on a limited set of platforms at this time beca
 |        iOS        |      ✅     |
 |       Linux       |      ❌     |
 |       macOS       |      ✅     |
-|      Windows      |      ❌     |
 |    Web (Hosted)   |      ✅     |
 | Web (Self-Hosted) |      ❌     |
+|      Windows      |      ❌     |
 
 ## Module Support
 
