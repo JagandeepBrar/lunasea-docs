@@ -38,4 +38,4 @@ Interested in using prerelease build channels of LunaSea? Learn the differences 
 
 ## License
 
-See [LICENSE.md](https://github.com/JagandeepBrar/LunaSea/blob/master/LICENSE.md) for more information.\
+See [LICENSE.md](https://github.com/JagandeepBrar/LunaSea/blob/master/LICENSE.md) for more information.
