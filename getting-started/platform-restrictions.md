@@ -18,8 +18,8 @@ If a module is not listed, you can assume that every platform has full support f
 |    iOS   |      ✅     |
 |   Linux  |      ✅     |
 |   macOS  |      ✅     |
-|    Web   |      ❌     |
 |  Windows |      ✅     |
+|    Web   |      ❌     |
 
 ### Overseerr
 
@@ -29,8 +29,8 @@ If a module is not listed, you can assume that every platform has full support f
 |    iOS   |      ✅     |
 |   Linux  |      ✅     |
 |   macOS  |      ✅     |
-|    Web   |      ❌     |
 |  Windows |      ✅     |
+|    Web   |      ❌     |
 
 ### Tautulli
 
@@ -40,8 +40,8 @@ If a module is not listed, you can assume that every platform has full support f
 |    iOS   |      ✅     |
 |   Linux  |      ✅     |
 |   macOS  |      ✅     |
-|    Web   |      ❌     |
 |  Windows |      ✅     |
+|    Web   |      ❌     |
 
 ### Wake on LAN
 
@@ -51,8 +51,8 @@ If a module is not listed, you can assume that every platform has full support f
 |    iOS   |      ✅     |
 |   Linux  |      ✅     |
 |   macOS  |      ✅     |
-|    Web   |      ❌     |
 |  Windows |      ✅     |
+|    Web   |      ❌     |
 
 ## Feature Support
 
@@ -66,9 +66,9 @@ If a feature is not listed, you can assume that every platform has full support 
 |        iOS        |      ✅     |
 |       Linux       |      ❌     |
 |       macOS       |      ✅     |
+|      Windows      |      ❌     |
 |    Web (Hosted)   |      ✅     |
 | Web (Self-Hosted) |      ❌     |
-|      Windows      |      ❌     |
 
 ### Push Notifications
 
@@ -78,9 +78,9 @@ If a feature is not listed, you can assume that every platform has full support 
 |        iOS        |      ✅     |
 |       Linux       |      ❌     |
 |       macOS       |      ✅     |
+|      Windows      |      ❌     |
 |    Web (Hosted)   |      ✅     |
 | Web (Self-Hosted) |      ❌     |
-|      Windows      |      ❌     |
 
 ## Web-Specific Restrictions
 
