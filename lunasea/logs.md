@@ -22,8 +22,6 @@ Critical logs are crashing errors or unhandled errors that have occurred on the 
 {% endtab %}
 {% endtabs %}
 
-Test
-
 ### Viewing Log History
 
 When a _handled_ error occurs, a toast notification will appear that allows you to directly view the error that just occurred.
