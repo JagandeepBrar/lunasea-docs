@@ -14,7 +14,7 @@
 * [Cloud Account](lunasea/cloud-account.md)
 * [Local Backup & Restore](lunasea/local-backup-and-restore.md)
 * [Logs](lunasea/logs.md)
-* [Notifications](lunasea-1/notifications/README.md)
+* [Notifications](lunasea/notifications/README.md)
   * [Lidarr](lunasea-1/notifications/lidarr.md)
   * [Overseerr](lunasea-1/notifications/overseerr.md)
   * [Radarr](lunasea-1/notifications/radarr.md)
