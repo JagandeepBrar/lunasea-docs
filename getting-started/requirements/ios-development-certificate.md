@@ -10,7 +10,7 @@ In order to create any builds for LunaSea, you must first create and attach a [D
 2. Under `Targets` select `Runner`
 3. Select the `Signing & Capabilities` tab
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Creating a Signing Team
 
@@ -18,7 +18,7 @@ In order to create any builds for LunaSea, you must first create and attach a [D
 2. Add an account (your Apple ID) and select your name or if already added then simply select your name
 3. The status should show `Failed to register bundle identifier` because the bundle identifier needs to be unique for each profile
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Creating a Bundle Identifier and Signing Profile
 
