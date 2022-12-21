@@ -34,6 +34,6 @@ In the same folder, open `key.properties.sample`. Fill in all of the fields with
 
 Save the file as `key.properties` inside of `<project root>/android`.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>key.properties example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>key.properties example</p></figcaption></figure>
 
 And that's it! You are ready to create production releases of LunaSea using your own signing keystore.
