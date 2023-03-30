@@ -6,7 +6,7 @@
 Custom notifications are considered an advanced feature, and requires basic knowledge of JSON syntax and creating your own scripts/tools to handle sending the payloads.
 {% endhint %}
 
-* Read through the main [Notifications](broken-reference) page
+* Read through the main [Notifications](./) page
 * Copy any module's device-based or user-based webhook URL from LunaSea
 
 You will need to slightly modify the webhook URL you have copied from any of the modules. Simply replace the name of the module within the webhook URL to `custom` and you're good to go!

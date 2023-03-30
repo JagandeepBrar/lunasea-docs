@@ -2,7 +2,7 @@
 
 ## Preparation
 
-* Read through the main [Notifications](broken-reference) page
+* Read through the main [Notifications](./) page
 * Copy your device-based or user-based webhook URL from LunaSea
 
 ## Setup the Webhook
