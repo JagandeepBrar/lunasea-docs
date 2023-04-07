@@ -27,7 +27,7 @@ The easiest way for most users with iOS devices to use test channels is using th
 3. Download LunaSea via the TestFlight application
 {% endtab %}
 
-{% tab title="Candidate" %}
+{% tab title="Beta" %}
 1. [Download TestFlight for iOS](https://apps.apple.com/app/testflight/id899247664)
 2. Join the [TestFlight beta channel](https://www.lunasea.app/testflight/candidate)
 3. Download LunaSea via the TestFlight application

@@ -8,7 +8,7 @@ If you want a stable experience, stick with stable releases. Want to test new bu
 
 ## TestFlight
 
-_Channel(s): `Stable`, `Candidate`, `Beta`, `Edge`_
+_Channel(s): `Stable`, `Beta`, `Edge`_
 
 The easiest way for most users with macOS devices would be to download releases of LunaSea using the [TestFlight](https://apps.apple.com/app/testflight/id899247664) platform!
 
