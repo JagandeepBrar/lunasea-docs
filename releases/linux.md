@@ -8,7 +8,7 @@ If you want a stable experience, stick with stable releases. Want to test new bu
 
 ## Snapcraft
 
-_Channel(s): `Stable`, `Candidate`, `Beta`, `Edge`_
+_Channel(s): `Stable`, `Beta`, `Edge`_
 
 The easiest way for most users on graphic Linux distributions would be to download releases of LunaSea directly from [Snapcraft](https://www.lunasea.app/snapcraft)!
 
@@ -16,12 +16,6 @@ The easiest way for most users on graphic Linux distributions would be to downlo
 {% tab title="Stable" %}
 ```
 sudo snap install lunasea
-```
-{% endtab %}
-
-{% tab title="Candidate" %}
-```
-sudo snap install lunasea --candidate
 ```
 {% endtab %}
 
@@ -40,7 +34,7 @@ sudo snap install lunasea --edge
 
 ## Build Bucket
 
-_Channel(s): `Stable`, `Candidate`, `Beta`, `Edge`_\
+_Channel(s): `Stable`, `Beta`, `Edge`_\
 _Format(s): `.snap`, `.deb`, `.tar.gz`_
 
 All Linux releases are available in the [Build Bucket](https://builds.lunasea.app/#latest/)!

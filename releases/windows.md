@@ -8,7 +8,7 @@ If you want a stable experience, stick with stable releases. Want to test new bu
 
 ## Build Bucket
 
-_Channel(s): `Stable`, `Candidate`, `Beta`, `Edge`_\
+_Channel(s): `Stable`, `Beta`, `Edge`_\
 _Format(s): `.msix`, `.zip`_
 
 All Windows releases are available in the [Build Bucket](https://builds.lunasea.app/#latest/)!

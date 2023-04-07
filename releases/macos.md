@@ -19,15 +19,9 @@ The easiest way for most users with macOS devices would be to download releases 
 3. Download LunaSea via the TestFlight application
 {% endtab %}
 
-{% tab title="Candidate" %}
-1. [Download TestFlight for macOS](https://apps.apple.com/app/testflight/id899247664)
-2. Join the [TestFlight candidate channel](https://www.lunasea.app/testflight/candidate)
-3. Download LunaSea via the TestFlight application
-{% endtab %}
-
 {% tab title="Beta" %}
 1. [Download TestFlight for macOS](https://apps.apple.com/app/testflight/id899247664)
-2. Join the [TestFlight beta channel](https://www.lunasea.app/testflight/beta)
+2. Join the [TestFlight beta channel](https://www.lunasea.app/testflight/candidate)
 3. Download LunaSea via the TestFlight application
 {% endtab %}
 
@@ -40,7 +34,7 @@ The easiest way for most users with macOS devices would be to download releases 
 
 ## Build Bucket
 
-_Channel(s): `Stable`, `Candidate`, `Beta`, `Edge`_\
+_Channel(s): `Stable`, `Beta`, `Edge`_\
 _Format(s): `.dmg`, `.zip`_
 
 All macOS releases are available in the [Build Bucket](https://builds.lunasea.app/#latest/)!
