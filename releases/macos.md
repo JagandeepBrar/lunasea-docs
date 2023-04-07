@@ -21,7 +21,7 @@ The easiest way for most users with macOS devices would be to download releases 
 
 {% tab title="Beta" %}
 1. [Download TestFlight for macOS](https://apps.apple.com/app/testflight/id899247664)
-2. Join the [TestFlight beta channel](https://www.lunasea.app/testflight/candidate)
+2. Join the [TestFlight beta channel](https://www.lunasea.app/testflight/beta)
 3. Download LunaSea via the TestFlight application
 {% endtab %}
 
