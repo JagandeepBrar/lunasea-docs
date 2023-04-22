@@ -1,6 +1,6 @@
 # macOS
 
-LunaSea is available on macOS 10.14+.
+LunaSea is available on macOS 10.15+.
 
 {% hint style="info" %}
 If you want a stable experience, stick with stable releases. Want to test new builds of LunaSea? Read about the [build channels](https://docs.lunasea.app/getting-started/build-channels) to make the right choice!
